@@ -1,0 +1,8 @@
+.env.prod*
+docker-compose.prod.yml
+app/entrypoint.prod.sh
+app/env
+app/db.sqlite3
+app/Dockerfile.prod
+app/staticfiles
+__pycache__/
